@@ -3,8 +3,8 @@ class submission
 {
 	private function connect()
 	{
-		$username = "blsundaram";
-		$password = "digitalindia";
+		$username = "adminyBh3lc7";
+		$password = "HLsSUbuh1h-x";
 
 		try {
  		   $dbh = new PDO('mysql:host=localhost;dbname=digitalindia', $username, $password);
