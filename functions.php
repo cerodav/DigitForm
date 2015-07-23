@@ -7,7 +7,7 @@ class submission
 		$password = "HLsSUbuh1h-x";
 
 		try {
- 		   $dbh = new PDO('mysql:host=localhost;dbname=digitalindia', $username, $password);
+ 		   $dbh = new PDO('mysql:host=OPENSHIFT_MYSQL_DB_HOST;dbname=digitalindia', $username, $password);
 		} catch (PDOException $e) {
     		print "Error!: " . $e->getMessage() . "<br/>";
     		die();
