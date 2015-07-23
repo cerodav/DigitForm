@@ -83,7 +83,7 @@
             The series of events will be planned, monitored and scrutinized by committees. They will be
             completed before 18th August, 2015. The winners will be awarded prizes on 18th August 2015.
             Interested students / faculty members are requested to participate in as many events as
-            possible after registration using the form at <a href="http://goo.gl/forms/ozCqqn3ssW">http://goo.gl/forms/ozCqqn3ssW.</a>
+            possible after registration.
           </div>
           <center>
             <br><br>
